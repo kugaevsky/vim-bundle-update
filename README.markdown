@@ -8,9 +8,9 @@ You need to install [pathogen.vim](https://github.com/tpope/vim-pathogen) for ma
 
 Installation
 ------------
-# Just download script
-# Set executable permissions to `vim-bundle-update.sh`
-# Run
+1. Just download script
+2. Set executable permissions to `vim-bundle-update.sh`
+3. Run
 
 Options
 -------
