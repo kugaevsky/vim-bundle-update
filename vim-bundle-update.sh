@@ -13,7 +13,7 @@ do
 	else
 		echo "$directory not a git plugin. Skipping update."
 	fi
-	echo "\n"
+	echo
 done
 
 exit 0
